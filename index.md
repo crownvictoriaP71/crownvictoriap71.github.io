@@ -17,9 +17,8 @@
       <span class="navbar-brand mb-0 h1">Navbarasdass</span>
     </div>
   </nav>
-<br><br><br><br>
-<div class="container ">
-<div class="row row-cols-1 row-cols-md-4 g-3">
+
+    
   <div class="col">
 <div class="card" style="width: 18rem;">
   <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="...">

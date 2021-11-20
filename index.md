@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,11 +12,7 @@
 </head>
 <body>
   
-  <nav class="navbar navbar-light bg-light">
-    <div class="container-fluid">
-      <span class="navbar-brand mb-0 h1">Navbarasdass</span>
-    </div>
-  </nav>
+
 
     
   <div class="col">

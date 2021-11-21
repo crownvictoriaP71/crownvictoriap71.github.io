@@ -69,7 +69,7 @@
     
     <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="https://sv1.picz.in.th/images/2021/11/22/6Bg5RZ.jpg" alt="...">
+      <img src="https://sv1.picz.in.th/images/2021/11/22/6BxOMJ.jpg" alt="...">
       <div class="card-body">
         <h5 class="card-title">Node JS API</h5>
         <p class="card-text"></p>

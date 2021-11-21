@@ -24,9 +24,9 @@
 <div class="card" style="width: 18rem;">
   <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="https://github.com/crownvictoriaP71/crownvictoriap71.github.io" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">TODO application on JS with DOM</h5>
+    <p class="push โค้ดขึ้น GitHub ของตนเอง และอัพเดตหน้าว github page ของตนเองเพื่อให้อาจารย์เข้าไปตรวจไฟล์.</p>
+    <a href="https://github.com/crownvictoriaP71/crownvictoriap71.github.io" class="btn btn-primary">Go</a>
   </div>
 </div>
 </div>
@@ -38,7 +38,7 @@
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
+      <a href="#" class="btn btn-primary">Go</a>
     </div>
   </div>
   </div>
@@ -50,7 +50,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="#" class="btn btn-primary">Go</a>
       </div>
     </div>
     </div>

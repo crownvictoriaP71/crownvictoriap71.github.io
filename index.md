@@ -34,7 +34,7 @@
   
 <div class="col">
   <div class="card" style="width: 18rem;">
-    <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="...">
+    <img src="https://sv1.picz.in.th/images/2021/11/22/6Bi7aR.jpg" alt="...">
     <div class="card-body">
       <h5 class="card-title">React Todo Application</h5>
       <p class="card-text">.</p>

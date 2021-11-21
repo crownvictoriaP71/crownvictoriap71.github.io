@@ -46,7 +46,7 @@
 
   <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="...">
+      <img src="https://sv1.picz.in.th/images/2021/11/22/6BgRh8.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">React Shopping Cart</h5>
         <p class="card-text">React Shopping Cart.</p>
@@ -58,7 +58,7 @@
 
   <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="https://sv1.picz.in.th/images/2021/11/22/6BgRh8.jpg" class="card-img-top" alt="...">
+      <img src="https://sv1.picz.in.th/images/2021/11/22/6Bg5RZ.jpg" alt="...">
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
         <p class="card-text">แอปสมัครงาน สามารถ เพิ่มลบแก้ไข ข้อมูลผู้สมัครงานได้ ศุภกร คันธโกวิท ทำBackend  ธนัท ภูระบัตรทำFronend ไฟล์ App.js สุธิการ ภูศักดิ์ ทำFronend ไฟล์ App2.js.</p>

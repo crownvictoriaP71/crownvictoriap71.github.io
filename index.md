@@ -62,7 +62,7 @@
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
         <p class="card-text">แอปสมัครงาน สามารถ เพิ่มลบแก้ไข ข้อมูลผู้สมัครงานได้ เอฟทำBackend  ธนัท ภูระบัตรทำFronend ไฟล์ App.js สุธิการ ภูศักดิ์ ทำFronend ไฟล์ App2.js.</p>
-        <a href="#" class="btn btn-primary">Go</a>
+        <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-primary">Go</a>
       </div>
     </div>
     </div>

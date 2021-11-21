@@ -26,7 +26,7 @@
   <div class="card-body">
     <h5 class="card-title">About me</h5>
     <p class="card-text">สร้างและอัพหน้าโปรไฟล์ของตนเองลงใน GitHub Page.</p>
-    <a href="https://crownvictoriap71.github.io/aboutme.html" class="btn btn-primary">Go</a>
+    <a href="https://crownvictoriap71.github.io/aboutme.html" class="btn btn-primary">กดเลยครับผม</a>
   </div>
 </div>
 </div>
@@ -38,7 +38,7 @@
     <div class="card-body">
       <h5 class="card-title">React Todo Application</h5>
       <p class="card-text">.</p>
-      <a href="#" class="btn btn-primary">Go</a>
+      <a href="#" class="btn btn-primary">กดเลยครับผม</a>
     </div>
   </div>
   </div>
@@ -50,7 +50,7 @@
       <div class="card-body">
         <h5 class="card-title">React Shopping Cart</h5>
         <p class="card-text">.</p>
-        <a href="#" class="btn btn-primary">Go</a>
+        <a href="#" class="btn btn-primary">กดเลยครับผม</a>
       </div>
     </div>
     </div>
@@ -62,7 +62,7 @@
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
         <p class="card-text">แอปสมัครงาน สามารถ เพิ่มลบแก้ไข ข้อมูลผู้สมัครงานได้ ศุภกร คันธโกวิท ทำBackend  ธนัท ภูระบัตรทำFronend ไฟล์ App.js สุธิการ ภูศักดิ์ ทำFronend ไฟล์ App2.js.</p>
-        <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-primary">Go</a>
+        <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-primary">กดเลยครับผม</a>
       </div>
     </div>
     </div>
@@ -73,7 +73,7 @@
       <div class="card-body">
         <h5 class="card-title">Node JS API</h5>
         <p class="card-text">.</p>
-        <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-primary">Go</a>
+        <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-primary">กดเลยครับผม</a>
       </div>
     </div>
     </div>
@@ -84,7 +84,7 @@
       <div class="card-body">
         <h5 class="card-title">Laravel web application</h5>
         <p class="card-text">Final Project พัฒนาด้วย Laravel framework หรือเทคโนโลยีอื่นที่นักศึกษาถนัด.</p>
-        <a href="https://github.com/crownvictoriaP71/Laravel-web-application" class="btn btn-primary">Go</a>
+        <a href="https://github.com/crownvictoriaP71/Laravel-web-application" class="btn btn-primary">กดเลยครับผม</a>
       </div>
     </div>
     </div>

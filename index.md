@@ -37,7 +37,7 @@
     <img src="https://sv1.picz.in.th/images/2021/11/22/6Bi7aR.jpg" alt="...">
     <div class="card-body">
       <h5 class="card-title">React Todo Application</h5>
-      <p class="card-text">.</p>
+      <p class="card-text"></p>
       <a href="https://github.com/crownvictoriaP71/React-Todo-Application" class="btn btn-primary">กดเลยครับผม</a>
     </div>
   </div>
@@ -49,7 +49,7 @@
       <img src="https://sv1.picz.in.th/images/2021/11/22/6BgRh8.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">React Shopping Cart</h5>
-        <p class="card-text">.</p>
+        <p class="card-text"></p>
         <a href="https://github.com/crownvictoriaP71/React-Shopping-Cart" class="btn btn-primary">กดเลยครับผม</a>
       </div>
     </div>
@@ -72,7 +72,7 @@
       <img src="https://sv1.picz.in.th/images/2021/11/22/6Bg5RZ.jpg" alt="...">
       <div class="card-body">
         <h5 class="card-title">Node JS API</h5>
-        <p class="card-text">.</p>
+        <p class="card-text"></p>
         <a href="https://github.com/crownvictoriaP71/Node-JS-API" class="btn btn-primary">กดเลยครับผม</a>
       </div>
     </div>

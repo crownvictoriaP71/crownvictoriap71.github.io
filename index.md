@@ -38,7 +38,7 @@
     <div class="card-body">
       <h5 class="card-title">React Todo Application</h5>
       <p class="card-text">.</p>
-      <a href="#" class="btn btn-primary">กดเลยครับผม</a>
+      <a href="https://github.com/crownvictoriaP71/React-Todo-Application" class="btn btn-primary">กดเลยครับผม</a>
     </div>
   </div>
   </div>
@@ -50,7 +50,7 @@
       <div class="card-body">
         <h5 class="card-title">React Shopping Cart</h5>
         <p class="card-text">.</p>
-        <a href="#" class="btn btn-primary">กดเลยครับผม</a>
+        <a href="https://github.com/crownvictoriaP71/React-Shopping-Cart" class="btn btn-primary">กดเลยครับผม</a>
       </div>
     </div>
     </div>
@@ -73,7 +73,7 @@
       <div class="card-body">
         <h5 class="card-title">Node JS API</h5>
         <p class="card-text">.</p>
-        <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-primary">กดเลยครับผม</a>
+        <a href="https://github.com/crownvictoriaP71/Node-JS-API" class="btn btn-primary">กดเลยครับผม</a>
       </div>
     </div>
     </div>

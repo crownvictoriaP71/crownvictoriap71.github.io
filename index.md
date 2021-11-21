@@ -61,7 +61,7 @@
       <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
-        <p class="card-text">งานคู่โดยให้นักศึกษาแบ่งทีมงานออกเป็นสองส่วน Backend Frontend 
+        <p class="card-text">งานคู่โดยให้นักศึกษาแบ่งทีมงานออกเป็นสองส่วน Backend Frontend .</p>
         <a href="#" class="btn btn-primary">Go</a>
       </div>
     </div>

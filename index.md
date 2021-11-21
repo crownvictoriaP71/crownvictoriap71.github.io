@@ -73,7 +73,7 @@
       <div class="card-body">
         <h5 class="card-title">Laravel web application</h5>
         <p class="card-text">พัฒนาด้วย Laravel framework หรือเทคโนโลยีอื่นที่นักศึกษาถนัด.</p>
-        <a href="#" class="btn btn-primary">Go</a>
+        <a href="https://github.com/crownvictoriaP71/Laravel-web-application" class="btn btn-primary">Go</a>
       </div>
     </div>
     </div>

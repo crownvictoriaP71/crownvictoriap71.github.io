@@ -26,7 +26,7 @@
   <div class="card-body">
     <h5 class="card-title">About me</h5>
     <p class="card-text">สร้างและอัพหน้าโปรไฟล์ของตนเองลงใน GitHub Page.</p>
-    <a href="https://github.com/crownvictoriaP71/crownvictoriap71.github.io" class="btn btn-primary">Go</a>
+    <a href="https://crownvictoriap71.github.io/aboutme.html" class="btn btn-primary">Go</a>
   </div>
 </div>
 </div>

@@ -69,10 +69,10 @@
     
       <div class="col">
     <div class="card" style="width: 18rem;">
-      <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="...">
+      <img src="https://sv1.picz.in.th/images/2021/11/22/6Bg1Mf.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Laravel web application</h5>
-        <p class="card-text">Final Projectพัฒนาด้วย Laravel framework หรือเทคโนโลยีอื่นที่นักศึกษาถนัด.</p>
+        <p class="card-text">Final Project พัฒนาด้วย Laravel framework หรือเทคโนโลยีอื่นที่นักศึกษาถนัด.</p>
         <a href="https://github.com/crownvictoriaP71/Laravel-web-application" class="btn btn-primary">Go</a>
       </div>
     </div>

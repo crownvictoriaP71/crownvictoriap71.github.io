@@ -60,8 +60,10 @@
     <div class="card" style="width: 18rem;">
       <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">React Shopping Cart</h5>
-        <p class="card-text">React Shopping Cart.</p>
+        <h5 class="card-title">React and Node API งานคู่</h5>
+        <p class="card-text">งานคู่โดยให้นักศึกษาแบ่งทีมงานออกเป็นสองส่วน
+Backend สร้างโดย NodeJS ทำการเชื่อมต่อฐานข้อมูลและกำหนดบริการ CRUD สำหรับจัดการข้อมูลในฐานข้อมูล
+Frontend สร้างโดย ReactJS ทำการเรียกใช้และเชื่อมต่อไปยังส่วน Backend</p>
         <a href="#" class="btn btn-primary">Go</a>
       </div>
     </div>
@@ -71,8 +73,8 @@
     <div class="card" style="width: 18rem;">
       <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">React Shopping Cart</h5>
-        <p class="card-text">React Shopping Cart.</p>
+        <h5 class="card-title">Laravel web application</h5>
+        <p class="card-text">งานโปรเจคพัฒนาด้วย Laravel framework หรือเทคโนโลยีอื่นที่นักศึกษาถนัด ประกอบไปด้วยรายละเอียดโครงงาน.</p>
         <a href="#" class="btn btn-primary">Go</a>
       </div>
     </div>

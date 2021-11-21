@@ -36,8 +36,8 @@
   <div class="card" style="width: 18rem;">
     <img src="https://cdn.pixabay.com/photo/2021/11/10/18/21/woman-6784555_960_720.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">application on JS with DOM</h5>
-      <p class="card-text">TODO application on JS with DOM.</p>
+      <h5 class="card-title">React Todo Application</h5>
+      <p class="card-text">.</p>
       <a href="#" class="btn btn-primary">Go</a>
     </div>
   </div>
@@ -49,7 +49,7 @@
       <img src="https://sv1.picz.in.th/images/2021/11/22/6BgRh8.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">React Shopping Cart</h5>
-        <p class="card-text">React Shopping Cart.</p>
+        <p class="card-text">.</p>
         <a href="#" class="btn btn-primary">Go</a>
       </div>
     </div>
@@ -62,6 +62,17 @@
       <div class="card-body">
         <h5 class="card-title">React and Node API งานคู่</h5>
         <p class="card-text">แอปสมัครงาน สามารถ เพิ่มลบแก้ไข ข้อมูลผู้สมัครงานได้ ศุภกร คันธโกวิท ทำBackend  ธนัท ภูระบัตรทำFronend ไฟล์ App.js สุธิการ ภูศักดิ์ ทำFronend ไฟล์ App2.js.</p>
+        <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-primary">Go</a>
+      </div>
+    </div>
+    </div>
+    
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+      <img src="https://sv1.picz.in.th/images/2021/11/22/6Bg5RZ.jpg" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Node JS API</h5>
+        <p class="card-text">.</p>
         <a href="https://github.com/crownvictoriaP71/React-and-Node-API-" class="btn btn-primary">Go</a>
       </div>
     </div>

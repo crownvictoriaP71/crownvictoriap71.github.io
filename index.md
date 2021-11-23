@@ -37,7 +37,7 @@
     <img src="https://sv1.picz.in.th/images/2021/11/22/6Bi7aR.jpg" alt="...">
     <div class="card-body">
       <h5 class="card-title">React Todo Application</h5>
-      <p class="card-text">file:///C:/Users/PC/Downloads/index.html</p>
+      <p class="card-text"></p>
       <a href="https://github.com/crownvictoriaP71/React-Todo-Application" class="btn btn-primary">กดเลยครับผม</a>
     </div>
   </div>

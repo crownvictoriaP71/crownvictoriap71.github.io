@@ -82,7 +82,7 @@
     <div class="card" style="width: 18rem;">
       <img src="https://sv1.picz.in.th/images/2021/11/22/6Bg1Mf.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Laravel web application</h5>
+        <h5 class="card-title">FINAL Laravel web application</h5>
         <p class="card-text">Final Project พัฒนาด้วย Laravel framework หรือเทคโนโลยีอื่นที่นักศึกษาถนัด.</p>
         <a href="https://github.com/crownvictoriaP71/Laravel-web-application" class="btn btn-primary">กดเลยครับผม</a>
       </div>
